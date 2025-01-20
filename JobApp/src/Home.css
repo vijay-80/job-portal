@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  
+  .jumbotron {
+    background-image: url('https://wallpapercave.com/wp/wp8746134.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    color: white; /* Text color */
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .home {
+    text-align: center; /* Center the text */
+    padding: 50px; /* Add padding for spacing */
+  }
+  
+  .main-heading {
+    font-size: 3rem; /* Adjust font size as needed */
+    font-weight: bold;
+    color: #000000; /* Choose a contrasting color */
+    margin-bottom: 20px;
+  }
+  
+  .sub-heading {
+    font-size: 1.2rem;
+    color: #090909; /* Slightly lighter color for sub-heading */
+  }
+
+  
